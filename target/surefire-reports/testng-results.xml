@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-20T14:51:48Z" name="LumentumLLC" finished-at="2020-11-20T14:52:30Z" duration-ms="42469">
+    <groups>
+    </groups>
+    <test started-at="2020-11-20T14:51:48Z" name="LumentumLLC.Digipan" finished-at="2020-11-20T14:52:30Z" duration-ms="42469">
+      <class name="POMTestClasses.LoginTestClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:POMTestClasses.LoginTestClass@3349e9bb]" started-at="2020-11-20T14:51:48Z" name="setUp" finished-at="2020-11-20T14:52:14Z" duration-ms="26173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPageAppear()[pri:0, instance:POMTestClasses.LoginTestClass@3349e9bb]" started-at="2020-11-20T14:52:14Z" name="testLoginPageAppear" finished-at="2020-11-20T14:52:14Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageAppear -->
+        <test-method signature="execloginDigipan(java.lang.String, java.lang.String)[pri:1, instance:POMTestClasses.LoginTestClass@3349e9bb]" started-at="2020-11-20T14:52:16Z" name="execloginDigipan" data-provider="Login" finished-at="2020-11-20T14:52:29Z" duration-ms="13094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zeeshan.mazhar@lumentumllc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Casuality01!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execloginDigipan -->
+        <test-method is-config="true" signature="clsoeBrowser()[pri:0, instance:POMTestClasses.LoginTestClass@3349e9bb]" started-at="2020-11-20T14:52:29Z" name="clsoeBrowser" finished-at="2020-11-20T14:52:30Z" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clsoeBrowser -->
+      </class> <!-- POMTestClasses.LoginTestClass -->
+    </test> <!-- LumentumLLC.Digipan -->
+  </suite> <!-- LumentumLLC -->
+</testng-results>

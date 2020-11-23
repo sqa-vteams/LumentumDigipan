@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LumentumLLC]" verbose="0">
+  <test thread-count="5" name="LumentumLLC.Digipan(failed)" verbose="0">
+    <classes>
+      <class name="POMTestClasses.PasswordResetTestClass">
+        <methods>
+          <include name="setUp"/>
+          <include name="execResetPasswordScenario" invocation-numbers="0"/>
+          <include name="clsoeBrowser"/>
+        </methods>
+      </class> <!-- POMTestClasses.PasswordResetTestClass -->
+      <class name="POMTestClasses.LoginTestClass">
+        <methods>
+          <include name="execloginDigipan" invocation-numbers="0"/>
+          <include name="testLoginPageAppear"/>
+          <include name="clsoeBrowser"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- POMTestClasses.LoginTestClass -->
+    </classes>
+  </test> <!-- LumentumLLC.Digipan(failed) -->
+</suite> <!-- Failed suite [LumentumLLC] -->

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<suite name="LumentumLLC">
+<test name="LumentumLLC.Digipan">
+<classes>
+<class name="POMTestClasses.PasswordResetTestClass">
+ </class>
+<class name="POMTestClasses.LoginTestClass">
+ </class>
+</classes>
+</test>
+</suite>

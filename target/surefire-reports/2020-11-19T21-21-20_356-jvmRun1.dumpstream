@@ -1,0 +1,265 @@
+# Created on 2020-11-19T21:22:07.530
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created on 2020-11-19T21:22:08.356
+Unexpected IOException with stream: [
+
+# Created on 2020-11-19T21:22:08.359
+Unexpected IOException with stream: 1
+
+# Created on 2020-11-19T21:22:08.362
+Unexpected IOException with stream: 6
+
+# Created on 2020-11-19T21:22:08.364
+Unexpected IOException with stream: 0
+
+# Created on 2020-11-19T21:22:08.366
+Unexpected IOException with stream: 5
+
+# Created on 2020-11-19T21:22:08.371
+Unexpected IOException with stream: 8
+
+# Created on 2020-11-19T21:22:08.374
+Unexpected IOException with stream: 0
+
+# Created on 2020-11-19T21:22:08.377
+Unexpected IOException with stream: 2
+
+# Created on 2020-11-19T21:22:08.380
+Unexpected IOException with stream: 9
+
+# Created on 2020-11-19T21:22:08.382
+Unexpected IOException with stream: 2
+
+# Created on 2020-11-19T21:22:08.384
+Unexpected IOException with stream: 8
+
+# Created on 2020-11-19T21:22:08.387
+Unexpected IOException with stream: .
+
+# Created on 2020-11-19T21:22:08.388
+Unexpected IOException with stream: 3
+
+# Created on 2020-11-19T21:22:08.389
+Unexpected IOException with stream: 5
+
+# Created on 2020-11-19T21:22:08.391
+Unexpected IOException with stream: 3
+
+# Created on 2020-11-19T21:22:08.392
+Unexpected IOException with stream: ]
+
+# Created on 2020-11-19T21:22:08.394
+Unexpected IOException with stream: [
+
+# Created on 2020-11-19T21:22:08.395
+Unexpected IOException with stream: W
+
+# Created on 2020-11-19T21:22:08.396
+Unexpected IOException with stream: A
+
+# Created on 2020-11-19T21:22:08.397
+Unexpected IOException with stream: R
+
+# Created on 2020-11-19T21:22:08.398
+Unexpected IOException with stream: N
+
+# Created on 2020-11-19T21:22:08.399
+Unexpected IOException with stream: I
+
+# Created on 2020-11-19T21:22:08.401
+Unexpected IOException with stream: N
+
+# Created on 2020-11-19T21:22:08.403
+Unexpected IOException with stream: G
+
+# Created on 2020-11-19T21:22:08.403
+Unexpected IOException with stream: ]
+
+# Created on 2020-11-19T21:22:08.404
+Unexpected IOException with stream: :
+
+# Created on 2020-11-19T21:22:08.405
+Unexpected IOException with stream:  
+
+# Created on 2020-11-19T21:22:08.406
+Unexpected IOException with stream: T
+
+# Created on 2020-11-19T21:22:08.407
+Unexpected IOException with stream: i
+
+# Created on 2020-11-19T21:22:08.408
+Unexpected IOException with stream: m
+
+# Created on 2020-11-19T21:22:08.409
+Unexpected IOException with stream: e
+
+# Created on 2020-11-19T21:22:08.410
+Unexpected IOException with stream: d
+
+# Created on 2020-11-19T21:22:08.411
+Unexpected IOException with stream:  
+
+# Created on 2020-11-19T21:22:08.412
+Unexpected IOException with stream: o
+
+# Created on 2020-11-19T21:22:08.413
+Unexpected IOException with stream: u
+
+# Created on 2020-11-19T21:22:08.414
+Unexpected IOException with stream: t
+
+# Created on 2020-11-19T21:22:08.415
+Unexpected IOException with stream:  
+
+# Created on 2020-11-19T21:22:08.416
+Unexpected IOException with stream: c
+
+# Created on 2020-11-19T21:22:08.417
+Unexpected IOException with stream: o
+
+# Created on 2020-11-19T21:22:08.418
+Unexpected IOException with stream: n
+
+# Created on 2020-11-19T21:22:08.419
+Unexpected IOException with stream: n
+
+# Created on 2020-11-19T21:22:08.420
+Unexpected IOException with stream: e
+
+# Created on 2020-11-19T21:22:08.420
+Unexpected IOException with stream: c
+
+# Created on 2020-11-19T21:22:08.421
+Unexpected IOException with stream: t
+
+# Created on 2020-11-19T21:22:08.421
+Unexpected IOException with stream: i
+
+# Created on 2020-11-19T21:22:08.422
+Unexpected IOException with stream: n
+
+# Created on 2020-11-19T21:22:08.422
+Unexpected IOException with stream: g
+
+# Created on 2020-11-19T21:22:08.423
+Unexpected IOException with stream:  
+
+# Created on 2020-11-19T21:22:08.424
+Unexpected IOException with stream: t
+
+# Created on 2020-11-19T21:22:08.425
+Unexpected IOException with stream: o
+
+# Created on 2020-11-19T21:22:08.426
+Unexpected IOException with stream:  
+
+# Created on 2020-11-19T21:22:08.426
+Unexpected IOException with stream: C
+
+# Created on 2020-11-19T21:22:08.427
+Unexpected IOException with stream: h
+
+# Created on 2020-11-19T21:22:08.427
+Unexpected IOException with stream: r
+
+# Created on 2020-11-19T21:22:08.428
+Unexpected IOException with stream: o
+
+# Created on 2020-11-19T21:22:08.428
+Unexpected IOException with stream: m
+
+# Created on 2020-11-19T21:22:08.429
+Unexpected IOException with stream: e
+
+# Created on 2020-11-19T21:22:08.429
+Unexpected IOException with stream: ,
+
+# Created on 2020-11-19T21:22:08.430
+Unexpected IOException with stream:  
+
+# Created on 2020-11-19T21:22:08.431
+Unexpected IOException with stream: r
+
+# Created on 2020-11-19T21:22:08.431
+Unexpected IOException with stream: e
+
+# Created on 2020-11-19T21:22:08.432
+Unexpected IOException with stream: t
+
+# Created on 2020-11-19T21:22:08.433
+Unexpected IOException with stream: r
+
+# Created on 2020-11-19T21:22:08.435
+Unexpected IOException with stream: y
+
+# Created on 2020-11-19T21:22:08.436
+Unexpected IOException with stream: i
+
+# Created on 2020-11-19T21:22:08.436
+Unexpected IOException with stream: n
+
+# Created on 2020-11-19T21:22:08.437
+Unexpected IOException with stream: g
+
+# Created on 2020-11-19T21:22:08.438
+Unexpected IOException with stream: .
+
+# Created on 2020-11-19T21:22:08.439
+Unexpected IOException with stream: .
+
+# Created on 2020-11-19T21:22:08.439
+Unexpected IOException with stream: .
+
+# Created on 2020-11-19T21:22:08.440
+Unexpected IOException with stream: 
+
+# Created on 2020-11-19T21:22:08.440
+Unexpected IOException with stream: 
+
+
+# Created on 2020-11-19T21:22:16.534
+Unexpected IOException: 8,1,POMTestClasses.PasswordResetTestClass,execResetPasswordScenario(POMTestClasses.PasswordResetTestClass),null,chrome not reachable\000A  (Session info: chrome=86.0.4240.198)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'NX00511'\002C ip: '10.28.81.135'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031...\002C userDataDir: C:\005CUsers\005CZEESHA~1.MAZ\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:3306}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 86.0.4240.198\002C webStorageEnabled: true}\000ASession ID: 55bae442fde18e74fdee4fe46df5724a\000A*** Element info: {Using=link text\002C value=Forgot your password? Click here},null,chrome not reachable\000A  (Session info: chrome=86.0.4240.198)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'NX00511'\002C ip: '10.28.81.135'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031...\002C userDataDir: C:\005CUsers\005CZEESHA~1.MAZ\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:3306}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 86.0.4240.198\002C webStorageEnabled: true}\000ASession ID: 55bae442fde18e74fdee4fe46df5724a\000A*** Element info: {Using=link text\002C value=Forgot your password? Click here},PasswordResetTestClass.execResetPasswordScenario:225 \00BB WebDriver chrome not re...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=86.0.4240.198)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'NX00511'\002C ip: '10.28.81.135'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031...\002C userDataDir: C:\005CUsers\005CZEESHA~1.MAZ\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:3306}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 86.0.4240.198\002C webStorageEnabled: true}\000ASession ID: 55bae442fde18e74fdee4fe46df5724a\000A*** Element info: {Using=link text\002C value=Forgot your password? Click here}\000A\0009at POMTestClasses.PasswordResetTestClass.execResetPasswordScenario(PasswordResetTestClass.java:225)\000A
+
+
+# Created on 2020-11-19T21:22:17.303
+Unexpected IOException with stream: 2
+
+# Created on 2020-11-19T21:22:17.305
+Unexpected IOException with stream: 
+
+
+# Created on 2020-11-19T21:22:17.306
+Unexpected IOException with stream: zeeshan.mazhar@lumentumllc.com
+
+
+# Created on 2020-11-19T21:22:17.307
+Unexpected IOException with stream: Casuality01!
+
+
+# Created on 2020-11-19T21:22:17.308
+Unexpected IOException: 5,1,POMTestClasses.LoginTestClass,execloginDigipan(POMTestClasses.LoginTestClass),POMTestClasses.LoginTestClass,null,null
+
+
+# Created on 2020-11-19T21:22:17.315
+Unexpected IOException with stream: Requested Element was not found
+
+
+# Created on 2020-11-19T21:22:17.319
+Unexpected IOException with stream: Requested Element was not found
+
+
+# Created on 2020-11-19T21:22:17.325
+Unexpected IOException: 8,1,POMTestClasses.LoginTestClass,execloginDigipan(POMTestClasses.LoginTestClass),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=86.0.4240.198)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'NX00511'\002C ip: '10.28.81.135'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031...\002C userDataDir: C:\005CUsers\005CZEESHA~1.MAZ\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:3355}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 86.0.4240.198\002C webStorageEnabled: true}\000ASession ID: cac1a86316bdbf82919e884c0bfb4dfe\000A*** Element info: {Using=xpath\002C value=//*[@id="LoginId"]},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=86.0.4240.198)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'NX00511'\002C ip: '10.28.81.135'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031...\002C userDataDir: C:\005CUsers\005CZEESHA~1.MAZ\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:3355}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 86.0.4240.198\002C webStorageEnabled: true}\000ASession ID: cac1a86316bdbf82919e884c0bfb4dfe\000A*** Element info: {Using=xpath\002C value=//*[@id="LoginId"]},LoginTestClass.execloginDigipan:94 \00BB NoSuchWindow no such window: target windo...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=86.0.4240.198)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'NX00511'\002C ip: '10.28.81.135'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031...\002C userDataDir: C:\005CUsers\005CZEESHA~1.MAZ\005CAppDa...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:3355}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 86.0.4240.198\002C webStorageEnabled: true}\000ASession ID: cac1a86316bdbf82919e884c0bfb4dfe\000A*** Element info: {Using=xpath\002C value=//*[@id="LoginId"]}\000A\0009at POMTestClasses.LoginTestClass.execloginDigipan(LoginTestClass.java:94)\000A
+
+
+# Created on 2020-11-19T21:22:18.368
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

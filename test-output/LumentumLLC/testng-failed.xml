@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LumentumLLC]">
+  <test thread-count="5" name="LumentumLLC.Digipan(failed)">
+    <classes>
+      <class name="POMTestClasses.PrimaryMarketSummaryTestClass">
+        <methods>
+          <include name="primaryMarketDownloads"/>
+          <include name="closeBrowser"/>
+          <include name="setUp"/>
+          <include name="validuserLogin"/>
+        </methods>
+      </class> <!-- POMTestClasses.PrimaryMarketSummaryTestClass -->
+    </classes>
+  </test> <!-- LumentumLLC.Digipan(failed) -->
+</suite> <!-- Failed suite [LumentumLLC] -->
